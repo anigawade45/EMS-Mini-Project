@@ -1,0 +1,2 @@
+1,Aniket,Gawade,20-01-2005,Amboli,20000.00,8830837235,anigawade05@gmail.com,B-Tech,manager,123456789012
+2,Raj ,Nikam,26-05-2005,Chopalun,15000.00,9898999808008,rajnikam12@gmail.com,B-Tech,manager,123232362762224
